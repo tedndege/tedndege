@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tedndege
 - 👀 I’m interested in Backend Development, Linux, Cloud computing and Automation(WEB ,RPA).
 - 🌱 I’m currently learning software design patterns and linux server adminstration.
-- 💞️ I’m looking to collaborate preferrably on tools for backend developers and or any interesting challenging project in regards to solving business problems.
+- 💞️ I’m looking to collaborate preferrably on tools for backend developers and or any interesting challenging project preferrably ones solving business problems.
 - 📫 How to reach me at tedndg@gmail.com, dont hesitate.
 
 <!---
