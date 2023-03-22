@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ted Ndege.
 - 👀 I’m interested in Backend Development, Linux, Cloud computing and Web Automation.
 - 🌱 I’m currently learning software design patterns, linux server adminstration and  ui design(for personal projects).
-- 💞️ I’m looking to collaborate on any interesting challenging project preferrably on any automation or anything solving business problems especially in the agribusiness field. I prefer Java or Python.
+- 💞️ I’m looking to collaborate on any interesting challenging project preferrably on any automation or anything solving business problems. I prefer Java or Python.
 - 📫 You can reach me at tedndg@gmail.com via email or linkedin  dont hesitate.
 
 <!---
